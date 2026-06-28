@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning automation tests with cypress
 - 💞️ I’m looking to collaborate on something I know
 - 📫 How to reach me:
-- Linkedin: https://www.linkedin.com/in/ricardo-motta/
+- Linkedin: https://www.linkedin.com/in/riqardo-motta/
 - Instagram: @ricardosmotta
 
 <!---
