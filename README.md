@@ -14,7 +14,7 @@ Welcome to my GitHub!
 
 - 💼 QA Analyst with more than 5+ years of experience in Software Quality.
 - 🌐 Working with Web Applications and WordPress projects.
-- 🔎 Passionate about Functional, Exploratory and Regression Testing.
+- 🔎 Expert about Functional, Exploratory and Regression Testing.
 - 🤖 Exploring AI to improve software quality, requirements analysis and test design.
 - 🎯 Currently studying Playwright, modern Quality Engineering concepts and AI-assisted testing.
 - 📚 Always learning and sharing what I discover along the way.
