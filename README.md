@@ -22,13 +22,13 @@ Welcome to my GitHub!
 ## Tech & Tools
 
 - Testing: Functional Testing • Exploratory Testing • Regression Testing • Integration Testing 
-- Automation: Playwright (learning) • Cypress (basic knowledge)
+- Automation: Playwright • Cypress
 - APIs: Postman
 - Bug Tracking: Jira
 - Cross-browser Testing: BrowserStack
 - AI: ChatGPT • GPT Maker • n8n
-- Version Control: Git (basic)
-- Programming: JavaScript (basic) • Python (basic)
+- Version Control: Git
+- Programming: JavaScript • Python
 
 ## Let's connect
 
