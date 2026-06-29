@@ -32,5 +32,5 @@ Welcome to my GitHub!
 
 ## Let's connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ricardo-motta/
+- 💼 LinkedIn: https://www.linkedin.com/in/riqardo-motta/
 - 📷 Instagram: @ricardosmotta
